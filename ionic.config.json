@@ -1,5 +1,7 @@
 {
   "name": "buWallet",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
